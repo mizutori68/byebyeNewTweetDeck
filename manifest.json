@@ -9,6 +9,7 @@
     "https://tweetdeck.twitter.com/*"
   ],
   "permissions": [
-    "scripting"
+    "scripting",
+    "tabs"
   ]
 }
